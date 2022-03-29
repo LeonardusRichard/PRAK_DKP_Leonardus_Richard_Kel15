@@ -14,7 +14,7 @@ while pilihan1 == "ya":
     ~~~~~~~~~~~~~~~~~~~~~~
     ES KRIM SERBA RASA
     ~~~~~~~~~~~~~~~~~~~~~~
-    1. ES krim coklat 
+    1. Es krim coklat 
     2. Es krim vanila 
     3. Es krim oreo
     4. Es krim blueberry  
