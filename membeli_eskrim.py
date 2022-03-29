@@ -26,7 +26,7 @@ while pilihan1 == "ya":
     jumlahpesan=int(input("Beli berapa ="))
     if eskrim == "1":
         namaeskrim= "Es krim coklat"
-        barang=(jumlahbarang)
+        barang=(jumlahpesan)
         if jumlahpesan >= 2:
             totaleskrim=int(barang)
         else:
