@@ -27,14 +27,14 @@ while pilihan1 == "ya":
     if eskrim == "1":
         namaeskrim= "Es krim coklat"
         barang=(jumlahpesan)
-        if jumlahpesan >= 2:
+        if jumlahpesan:
             totaleskrim=int(barang)
         else:
             totaleskrim=int(barang)
     elif eskrim == "2":
         namaeskrim= "Es krim vanila"
         barang = (jumlahpesan)
-        if jumlahpesan >= 2:
+        if jumlahpesan:
             totaleskrim =int(barang)
         else:
             totaleskrim =int(barang)
