@@ -48,7 +48,7 @@ while pilihan1 == "ya":
         totaleskrim = int(barang)
     elif eskrim == "5":
         namaeskrim= "Es krim stawberry"
-        barang=int(4500*jumlahpesan)
+        barang=int(jumlahpesan)
         totalheskrim= int(barang)    
     else:
         barang = "-"
